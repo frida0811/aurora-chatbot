@@ -52,7 +52,7 @@ Frontend UI (Streamlit)
  └──► Deployment: GitHub & Local
 ```
 
-📌 Diagram available at `docs/aurora_architecture_clean.png`
+📌 Diagram available at `aurora_architecture_clean.png`
 
 ---
 

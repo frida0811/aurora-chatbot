@@ -23,7 +23,7 @@ Aurora is an intelligent, lightweight, and customizable AI-powered chatbot syste
 ## 🖼️ UI Preview
 
 <p align="center">
-  <img src="docs/aurora_ui_screenshot.png" width="750" alt="Aurora Chatbot UI: Light/Dark/Responsive Modes">
+  <img src="aurora_ui_screenshot.png" width="750" alt="Aurora Chatbot UI: Light/Dark/Responsive Modes">
 </p>
 
 

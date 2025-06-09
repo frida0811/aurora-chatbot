@@ -9,16 +9,16 @@ Aurora is an intelligent, lightweight, and customizable AI-powered chatbot syste
 
 ## 🚀 Key Features
 
-- 🔧 **ChatGPT Integration** – Uses OpenAI's GPT API for intelligent, contextual conversations  
-- 🖥️ **Responsive Frontend UI** – Built with Streamlit for fast deployment and mobile adaptation  
-- 🌓 **Day/Night Mode Toggle** – Switch UI themes for better user experience  
-- 🗃️ **Database Support** – Local SQLite database stores user interactions  
-- 📄 **Export Chat to PDF** – Save important conversations for review or recordkeeping  
-- 🌐 **Local & GitHub Deployment** – Supports local testing and cloud-based deployment  
+- 🔧 ChatGPT Integration – Uses OpenAI's GPT API for intelligent, contextual conversations  
+- 🖥️ Responsive Frontend UI – Built with Streamlit for fast deployment and mobile adaptation  
+- 🌓 Day/Night Mode Toggle – Switch UI themes for better user experience  
+- 🗃️ Database Support – Local SQLite database stores user interactions  
+- 📄 Export Chat to PDF – Save important conversations for review or recordkeeping  
+- 🌐 Local & GitHub Deployment – Supports local testing and cloud-based deployment  
 
 ---
 
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 | Layer         | Technology                     |
 | ------------- | ------------------------------ |
@@ -30,7 +30,7 @@ Aurora is an intelligent, lightweight, and customizable AI-powered chatbot syste
 
 ---
 
-## 🧱 System Architecture
+ 🧱 System Architecture
 
 ```
 User
@@ -43,19 +43,19 @@ Frontend UI (Streamlit)
  └──► Deployment: GitHub & Local
 ```
 
-📌 *Diagram available at `docs/aurora_architecture_clean.png`*
+📌 Diagram available at `docs/aurora_architecture_clean.png`
 
 ---
 
-## 🧪 How to Run
+🧪 How to Run
 
-### 🔧 Prerequisites
+ 🔧 Prerequisites
 
 - Python 3.8+
 - OpenAI API Key
 - Recommended: Virtual environment
 
-### 💻 Setup
+💻 Setup
 
 ```bash
 git clone https://github.com/frida0811/aurora-chatbot.git
@@ -65,10 +65,9 @@ streamlit run Chatweb.py
 ```
 
 ---
+ 📁 Project Structure
 
-## 📁 Project Structure
 
-```
 aurora-chatbot/
 ├── Chatweb.py
 ├── requirements.txt
@@ -76,20 +75,20 @@ aurora-chatbot/
 ├── README.md
 └── /docs
     └── aurora_architecture_clean.png
-```
+
 
 ---
 
-## 👩‍💻 Contributor Roles
+👩‍💻 Contributor Roles
 
-- **Lingjiao Zhao**  
+- Frida YuZhao  
   - Frontend design & UI development  
   - Local database integration  
   - Cloud and local deployment management
 
 ---
 
-## 🧠 Future Improvements
+🧠 Future Improvements
 
 - Integrate image/audio input for multimodal capabilities  
 - Enhance long-context memory across conversations  
@@ -98,7 +97,7 @@ aurora-chatbot/
 
 ---
 
-## 📜 License
+📜 License
 
 This project is licensed under the MIT License.
 
